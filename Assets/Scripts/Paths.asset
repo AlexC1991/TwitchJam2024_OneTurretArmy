@@ -19,3 +19,9 @@ MonoBehaviour:
     value: 1
   - pathSprite: {fileID: 7558854599850751794, guid: cf35b69b2a9c836459e36f237891a9a7, type: 3}
     value: 2
+  - pathSprite: {fileID: 2209409322481996353, guid: 7de89f7581f836d4d97ed8f738ce2a3d, type: 3}
+    value: 3
+  - pathSprite: {fileID: 4317954947249426308, guid: 3113204a2bd34e54ab25759c0e65a598, type: 3}
+    value: 4
+  - pathSprite: {fileID: 3610256251316369503, guid: fc4e638edee463d46b7bdf80e187318f, type: 3}
+    value: 5
