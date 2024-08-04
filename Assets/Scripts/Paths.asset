@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: Paths
   m_EditorClassIdentifier: 
   pathData:
-  - pathSprite: {fileID: 3352885202726060275, guid: dc3f371002207a348aef1a72d0ad3cc0, type: 3}
+  - pathSprite: {fileID: 7419070007190307638, guid: 47a452c560708b04285b27418f8124be, type: 3}
     value: 0
-  - pathSprite: {fileID: 270287067376043274, guid: 2752ce272a522044a8c7f08fa2fb5d2d, type: 3}
+  - pathSprite: {fileID: 2080769722499672219, guid: bdd5de7d814004c488fc5ec13051133e, type: 3}
     value: 1
-  - pathSprite: {fileID: 7558854599850751794, guid: cf35b69b2a9c836459e36f237891a9a7, type: 3}
+  - pathSprite: {fileID: 1730870781901142004, guid: 91cba163bd5d43843a0b7ad4af616c94, type: 3}
     value: 2
-  - pathSprite: {fileID: 2209409322481996353, guid: 7de89f7581f836d4d97ed8f738ce2a3d, type: 3}
+  - pathSprite: {fileID: 94286639579602857, guid: 992f77465172ebf478749ab2647dff77, type: 3}
     value: 3
-  - pathSprite: {fileID: 4317954947249426308, guid: 3113204a2bd34e54ab25759c0e65a598, type: 3}
+  - pathSprite: {fileID: 94286639579602857, guid: 992f77465172ebf478749ab2647dff77, type: 3}
     value: 4
-  - pathSprite: {fileID: 3610256251316369503, guid: fc4e638edee463d46b7bdf80e187318f, type: 3}
+  - pathSprite: {fileID: 6844536198443283573, guid: 7f96c6105e9cbb447b2377d0d5f26bf7, type: 3}
     value: 5
+  - pathSprite: {fileID: 6600245359865604655, guid: 080ec66066ab89a4c8f4ebc706b2408f, type: 3}
+    value: 6

@@ -56,7 +56,7 @@ namespace OneTurretArmy
                 
              if (maxValue == currentValue)
              {
-                 StartCoroutine(pG.AddInPathGenerator());
+                 StartCoroutine(pG.StartingLevelBarrier());
                  Debug.Log("Finished");
                  StopCoroutine(startingGrid);
              }
