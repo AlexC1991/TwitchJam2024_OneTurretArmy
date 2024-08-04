@@ -27,3 +27,5 @@ MonoBehaviour:
     value: 5
   - pathSprite: {fileID: 6600245359865604655, guid: 080ec66066ab89a4c8f4ebc706b2408f, type: 3}
     value: 6
+  - pathSprite: {fileID: 7977947492107173090, guid: 0cc09b20b3c8c5d46bad2dce4aa0ac6d, type: 3}
+    value: 7
